@@ -27,6 +27,9 @@ and Skills
    <a href="https://www.instagram.com/official_abhisingh_0.1/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+ <a href="">
+  <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/"/>
+ </a>
    <a href="#">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>

@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm DILIP KUMAR</h1>
+ <h1 align="center">Hi DILIP KUMAR</h1>
 
 - 🔭 I’m currently XTeam Consultants India Pvt. Ltd.
 - <p>MERN STACK DEVELOPER</p>

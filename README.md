@@ -25,7 +25,7 @@ and Skills
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/official_abhisingh_0.1/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
  <a href="">
   <img src="https://img.shields.io/badge/Linkedin-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/"/>

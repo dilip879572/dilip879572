@@ -1,7 +1,14 @@
- <h1 align="center">Hi DILIP KUMAR</h1>
-
-- 🔭 I’m currently XTeam Consultants India Pvt. Ltd.
-- <p>MERN STACK DEVELOPER</p>
+ <h1 align="center">Hi i'm DILIP KUMAR</h1>
+<center>
+ Full Stack Developer(MERN STACK DEVELOPER) With a Passion for Development
+and Excited to Be at the Deployment Phase of My
+Career as a Web Developer. Proficient in Frontend
+Technology as Well as in Backend Technology.To Secure
+a Challenging Position in a Reputable Organization to
+Expand My Learnings,Knowledge,
+and Skills
+</center
+- 🔭 I’m currently XTeam Consultants India Pvt. Ltd.MERN STACK DEVELOPER
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: dilip.879572@gmail.com
 - 😄 My website: wating

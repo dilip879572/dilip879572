@@ -1,6 +1,6 @@
  <h1 align="center">Hi i'm DILIP KUMAR</h1>
 
- Full Stack Developer(MERN STACK DEVELOPER) With a Passion for Development
+ Full Stack Developer (MERN STACK DEVELOPER) With a Passion for Development
 and Excited to Be at the Deployment Phase of My
 Career as a Web Developer. Proficient in Frontend
 Technology as Well as in Backend Technology.To Secure
@@ -11,7 +11,7 @@ and Skills
 - 🔭 I’m currently XTeam Consultants India Pvt. Ltd.MERN STACK DEVELOPER
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: dilip.879572@gmail.com
-- @ contact Number : 8795720084
+- @ contact Number :<u>8795720084<u/> 
 - 😄 My website: wating
 - ⚡ Fun fact: I'm comming to teen
 

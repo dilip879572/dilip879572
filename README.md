@@ -30,6 +30,12 @@ and Skills
    <a href="#">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+ <a>
+
+  <img src="https://img.shields.io/badge/contact-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+8795720084"/>
+
+ </a>
+ 
    <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>

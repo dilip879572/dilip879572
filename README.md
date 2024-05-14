@@ -99,6 +99,22 @@ and Skills
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" style="height: 50px; width:50px;" />
 </div>
 
+### Languages and Tools:
+
+<div style="white-space: nowrap; overflow-x: auto;">
+    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" style="height: 50px; width: 50px; display: inline-block;" />
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" style="height: 50px; width: 50px; display: inline-block;" />
+</div>
+
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)

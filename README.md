@@ -58,7 +58,7 @@ and Skills
 
 ## Communication
 <a>
-  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" style="height: 20px; width: 30px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" style="height: 50px; width: 50px;" />
 </a>
 
 

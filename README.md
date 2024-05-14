@@ -77,7 +77,9 @@ and Skills
     <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" style="height: 50px; width: 50px;" />
   </a>
 </div>
+
  Tools
+ ## <hr/>
 <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" style="height: 50px; width: 50px; margin-right: 10px;" />
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 50px; width: 50px;" />

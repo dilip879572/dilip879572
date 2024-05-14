@@ -91,10 +91,11 @@ and Skills
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" style="height: 50px; width:50px;" />
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" style="height: 50px; width:50px;"  />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" style="height: 50px; width:50px;" />
-  <img src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" style="height: 50px; width:50px;" />
+  <img src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" style="height: 50px; width:50px;"/>
   <img src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" style="height: 50px; width:50px;" />
   <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" style="height: 50px; width:50px;" />
-  <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb09e1-e57f-430b-a111-e165deedaa36.png" style="height: 50px; width:50px;" />
+  <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png
+" style="height: 50px; width:50px;" />
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" style="height: 50px; width:50px;" />
 </div>
 

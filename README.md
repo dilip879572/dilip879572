@@ -32,6 +32,18 @@ and Skills
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
  <a>
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png
+"/>
+ </a>
+ <a>
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png
+"/>
+ </a>
+ <a >
+  <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png
+"/>
+ </a>
+ <a>
 
   <img src="https://img.shields.io/badge/contact-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+8795720084"/>
 

@@ -61,27 +61,23 @@ and Skills
   <a style="margin-right: 10px;">
     <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" style="height: 50px; width: 50px;" />
   </a>
-  <a>
+  <a style="margin-right: 10px;">
     <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" style="height: 50px; width: 50px;" />
   </a>
- <a>
-  <img scr="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png
-"style="height: 50px; width: 50px;"/>
- </a>
- <a>
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-style="height: 50px; width: 50px"/>
- </a>
- <a>
-  <img scr="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"
-style="height: 50px; width: 50px"/>
- </a>
- <a>
-  <img scr="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png"
-   style="height: 50px; width: 50px"
-/>
- </a>
+  <a style="margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" style="height: 50px; width: 50px;" />
+  </a>
+  <a style="margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" style="height: 50px; width: 50px;" />
+  </a>
+  <a style="margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" style="height: 50px; width: 50px;" />
+  </a>
+  <a>
+    <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" style="height: 50px; width: 50px;" />
+  </a>
 </div>
+
 
 
 

@@ -12,7 +12,6 @@ Previously, I completed a 9-month internship and 1 year of work at Xteam Consult
 I have practical experience in building frontend, backend, and REST APIs using the MERN stack.
 I’m also exploring Blockchain technology and aim to build secure, decentralized web solutions.
 I love learning new tools, contributing to open-source, and creating impactful web projects.
-- 💬 Ask me anything about Flutter 
 - 📫 How to reach me: dilip.879572@gmail.com  
 ### Connect with me:
 <div id="badges">

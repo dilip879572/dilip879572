@@ -5,12 +5,13 @@
   </a>
 </h1>
 
-Hi! I’m Dilip Kumar 👋
-A passionate MERN Stack Developer.
-I hold a Diploma & B.Tech in Computer Science.
-I have 9 months of internship experience.
-1 year at Xteam Consultants, now at IosAndWeb Technologies.
-Exploring Blockchain and building modern web projects.
+Hi! I'm Dilip Kumar 👋, currently working as a MERN Stack Developer.
+I hold a Diploma and B.Tech in Computer Science.
+Currently, I’m working at IosAndWeb Technologies as a Web Developer.
+Previously, I completed a 9-month internship and 1 year of work at Xteam Consultants.
+I have practical experience in building frontend, backend, and REST APIs using the MERN stack.
+I’m also exploring Blockchain technology and aim to build secure, decentralized web solutions.
+I love learning new tools, contributing to open-source, and creating impactful web projects.
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: dilip.879572@gmail.com  
 ### Connect with me:

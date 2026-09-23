@@ -4,15 +4,10 @@
     DILIP KUMAR
   </a>
 </h1>
-
-Hi! I'm Dilip Kumar 👋, a passionate MERN Stack Developer with 3 years of experience in building scalable and responsive web applications.
-
+Hi! I'm Dilip Kumar a passionate MERN Stack Developer with 3 years of experience in building scalable and responsive web applications.
 I hold a Diploma and B.Tech in Computer Science and currently work as a Web Developer at IosAndWeb Technologies. Previously, I completed a 9-month internship and 1 year of professional experience at Xteam Consultants.
-
 I have hands-on experience with MongoDB, Express.js, React.js, Node.js, Next.js, Vue.js, JavaScript, TypeScript, REST APIs, GraphQL, MySQL, PostgreSQL, Firebase, Supabase, Salesforce, and HubSpot.
-
 I also work with Generative AI, LLMs, AI APIs, Prompt Engineering, AI-assisted Application Development, AI Chatbots, AI Agents, Apollo APIs, and Blockchain/Web3 technologies.
-
 I enjoy learning new technologies, building intelligent and user-focused applications, contributing to impactful projects, and continuously improving my development
 - 📫 How to reach me: dilip.879572@gmail.com  
 ### Connect with me:
